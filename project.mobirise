@@ -31,6 +31,8 @@
         "#000000"
       ]
     },
+    "favicon": "@PROJECT_PATH@/assets/images/register-127x127.png",
+    "noImageResize": "",
     "versionFirst": "4.5.4",
     "uniqCompNum": 28,
     "versionPublish": "4.5.4"
@@ -39,8 +41,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Information Management System Calculator",
+        "meta_descr": "Fisheries Information Management System Calculator using Innovation Options and accounting",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
